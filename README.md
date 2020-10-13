@@ -4,7 +4,7 @@
 
 基于vm集群，使用sealos安装k8s master、node以及dashboard等。
 
-在PC机（i5/HDD/Windows 10 pro）环境下测试，搭建vm集群耗时5分钟，sealos搭建k8s集群耗时7分钟。
+在PC机（i5/32G/HDD/Windows 10 pro）环境下测试，搭建vm集群耗时5分钟，sealos搭建k8s集群耗时7分钟。
 
 **相关资源**
 
